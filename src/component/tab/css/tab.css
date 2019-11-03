@@ -1,0 +1,16 @@
+.tabBox{
+    width:100%;
+    height:50px;
+    display: flex;
+    justify-content:space-around;
+    background:#eee;
+}
+.titlebox{
+    width:20%;
+    height:50px;
+    text-align:center;
+    line-height:50px;
+}
+.active{
+    background:yellowgreen;
+}

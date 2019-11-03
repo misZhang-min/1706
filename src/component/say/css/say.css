@@ -1,0 +1,17 @@
+.grand{
+    position: relative;
+}
+.FatherBox{
+    width:500px;
+    height:500px;
+    border:1px solid #000;
+    position: relative;
+}
+.SonBox{
+    width:200px;
+    height:200px;
+    border:1px solid #ccc;
+    position: absolute;
+    bottom:0;
+    left:0;
+}
